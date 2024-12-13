@@ -3,18 +3,31 @@ TakeHomeFinal Repository
 This repository contains HTML files addressing specific issues for the final project. You can view the files directly using the following links:
 
 Issue 2
+
 https://aklepta19.github.io/TakeHomeFinal/Issue2.html
+
 Issue 4
+
 https://aklepta19.github.io/TakeHomeFinal/Issue4.html
+
 Issue 5
+
 https://aklepta19.github.io/TakeHomeFinal/issue5.html
+
 Issue 6 and 7
+
 https://aklepta19.github.io/TakeHomeFinal/Issue6-7.html
+
 Issue 8
+
 https://aklepta19.github.io/TakeHomeFinal/issue8.html
+
 Issue 9
+
 https://aklepta19.github.io/TakeHomeFinal/Issue9.html
+
 Issue 10
+
 https://aklepta19.github.io/TakeHomeFinal/Issue10.html
 
 Prompts from Assignment 24:
